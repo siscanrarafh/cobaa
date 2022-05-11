@@ -1,0 +1,40 @@
+.navbar {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  line-height: 50px;
+}
+.navbar-brand {
+  font-style: normal;
+  font-family: "Brush Script MT";
+  font-size: 60px;
+}
+
+.display-4 {
+  font-style: normal;
+  font-family: Impact;
+  color: whitesmoke;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #a2e6f3fb;
+}
+
+#artikel {
+  background-color: #a2e6f3fb;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+.fa-instagram {
+  color: whitesmoke;
+}
+.fa-github {
+  color: whitesmoke;
+}
+
+.portofolio-img {
+  width: 100%;
+}
